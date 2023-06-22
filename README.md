@@ -2,8 +2,6 @@
 
 Alien Beats Media Player is a web-based music streaming application inspired by Spotify. It is built using HTML, CSS, and JavaScript, providing users with a seamless music listening experience directly from their browsers.
 
-![Alien Beats Media Player](https://your-image-url.com)
-
 ## Features
 
 - **User Authentication**: Users can create accounts, log in, and securely authenticate themselves to access personalized features.
